@@ -1,2 +1,8 @@
 .ipynb_checkpoints
 *.html
+*.zip
+*.pdf
+*.aux
+*.tex
+*.log
+__pycache__

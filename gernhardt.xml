@@ -1,0 +1,18 @@
+<?xml-model href="poem.rnc" type="application/relax-ng-compact-syntax"?>
+<doc type="poem">
+    <author>Robert Gernhardt</author>
+    <title>Trost und Rat</title>
+    <lg>
+        <l>Ja wer wird denn gleich verzweifeln,</l>
+        <l>weil er klein und laut und dumm ist?</l>
+        <l>Jedes Leben endet. Leb so,</l>
+        <l>daß du, wenn dein Leben um ist</l>
+    </lg>
+    <!-- Noch ne Strophe: -->
+    <lg>
+        <l>von dir sagen kannst: Na wenn schon!</l>
+        <l>Ist mein Leben jetzt auch um, </l>
+        <l>habe ich doch was geleistet:</l>
+        <l>ich war klein <hi rend="spaced">und</hi> laut <hi rend="spaced">und</hi> dumm</l>
+    </lg>
+</doc>
